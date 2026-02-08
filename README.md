@@ -18,8 +18,7 @@ Performed static and dynamic analysis on the EICAR test file while monitoring sy
 
 ### 2. Network Attack Simulation
 Simulated an unauthorized TCP connection on Port 4444. Analyzed the **TCP Three-Way Handshake** (SYN, SYN-ACK, ACK) using Wireshark to confirm the connection status and monitor how the traffic is logged.
-
-![Network Analysis](image_b3029e.png)
+* [📄 Download Full SOC Analysis Report (Word)](./Aisha's%20SOC%20Home%20Lab.docx)
 
 ## Conclusion
 This project successfully demonstrated the implementation of a controlled SOC Analyst Lab for malware analysis and network forensics. By establishing a strictly isolated environment, I was able to safely execute suspicious files and simulate unauthorized network connections without risking the host system's integrity.
