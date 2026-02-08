@@ -22,4 +22,4 @@ Simulated an unauthorized TCP connection on Port 4444. Analyzed the **TCP Three-
 
 ## Conclusion
 This project successfully demonstrated the implementation of a controlled SOC Analyst Lab for malware analysis and network forensics. By establishing a strictly isolated environment, I was able to safely execute suspicious files and simulate unauthorized network connections without risking the host system's integrity.
-* [📄 Download Full SOC Analysis Report (Word)](Report.docx)
+You can find the full Word report and analysis files in the repository's file list above.
